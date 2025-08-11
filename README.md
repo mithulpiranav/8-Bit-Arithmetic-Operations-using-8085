@@ -16,7 +16,7 @@ To perform 8-bit arithmetic operations such as addition, subtraction, multiplica
    
 ### Program:
 
-<img width="1525" height="975" alt="image" src="https://github.com/user-attachments/assets/350afdf8-1750-4c38-8b3d-0c9116014dab" />
+<img width="1545" height="911" alt="image" src="https://github.com/user-attachments/assets/47a90a36-f4d0-4b1a-988e-4ce6133740e7" />
 
 ### Output:
 
@@ -35,7 +35,8 @@ To perform 8-bit arithmetic operations such as addition, subtraction, multiplica
 
 ### Program:
 
-<img width="1521" height="973" alt="image" src="https://github.com/user-attachments/assets/39926dec-3b8f-4373-9ab7-4b50b6fa946b" />
+<img width="1540" height="851" alt="image" src="https://github.com/user-attachments/assets/f76ac548-66f1-42dd-8690-fdb6603d8c2e" />
+
 
 ### Output:
 
