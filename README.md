@@ -16,7 +16,13 @@ To perform 8-bit arithmetic operations such as addition, subtraction, multiplica
    
 ### Program:
 
+<img width="1525" height="975" alt="image" src="https://github.com/user-attachments/assets/350afdf8-1750-4c38-8b3d-0c9116014dab" />
+
 ### Output:
+
+<img width="305" height="491" alt="image" src="https://github.com/user-attachments/assets/304fab6f-84eb-4de0-8d2e-bb399a3e93bb" />
+
+<img width="304" height="518" alt="image" src="https://github.com/user-attachments/assets/33072a85-f5bb-473a-9f7f-365c52a83222" />
 
 ### For Subtraction (Considering Greater Number):
 1.	Load the first number from memory location 4200H into register A.
@@ -28,7 +34,13 @@ To perform 8-bit arithmetic operations such as addition, subtraction, multiplica
 
 ### Program:
 
+<img width="1521" height="973" alt="image" src="https://github.com/user-attachments/assets/39926dec-3b8f-4373-9ab7-4b50b6fa946b" />
+
 ### Output:
+
+<img width="296" height="550" alt="image" src="https://github.com/user-attachments/assets/a51571c3-46e4-41a3-b6fe-7034b3544bc3" />
+
+<img width="292" height="575" alt="image" src="https://github.com/user-attachments/assets/2161aa9a-dd99-4b32-9210-511b17b841ff" />
 
 ### For Multiplication:
 1.	Load the first number from memory location 4200H into register A.
